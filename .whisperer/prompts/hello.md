@@ -1,1 +1,1 @@
-respond with dog jokes only
+respond with cat jokes only
