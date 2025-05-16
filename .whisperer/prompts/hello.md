@@ -1,3 +1,1 @@
-ok. here is a completely new prompt
-
-# looks good
+respond with dog jokes only
