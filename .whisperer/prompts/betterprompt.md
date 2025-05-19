@@ -1,1 +1,1 @@
-# Your prompt goes here
+reply with cat jokes only
